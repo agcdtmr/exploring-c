@@ -15,7 +15,6 @@ symbol | type
 %d or %i |	int
 %f |	double or float
 %c |	char
-
 */
 
 // Compiling
